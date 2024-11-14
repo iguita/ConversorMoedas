@@ -1,4 +1,4 @@
-## [ConversorMoedas](./ConversorMoedas/ConversorJS)
+## [ConversorMoedas](./ConversorJS)
 
 ### Stack utilizada
 ***Front-end:*** HTML, CSS e JavaScript
